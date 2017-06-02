@@ -1,6 +1,5 @@
-<h1>Sentiment analysis on Tweets using Node.js</h1>
-<p> This application attempts to analyze the sentiment of each tweet regarding a specific topic, then visualizes
-the sentiment using a line chart updated real time.</p>
+<h1>Sentiment Analysis on Tweets using Node.js</h1>
+<p> This application analyzes the sentiment of each tweet regarding a specific topic ("apple" in our case), then visualizes the sentiment using a line chart updated real time.</p>
 
 <h2>Rationale</h2>
 <ul>
